@@ -28,6 +28,6 @@ Ensure you have the following installed:
    python run.py
 3. Follow the instruction.
 
-<hr> 
-Developed by Pankaj Kumar
+###
+Developed by Pankaj Kumar<br> 
 GitHub: @Pankajkr2699
