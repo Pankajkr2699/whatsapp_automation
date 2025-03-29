@@ -28,8 +28,6 @@ Ensure you have the following installed:
    python run.py
 3. Follow the instruction.
 
-License
-This project is licensed under the MIT License.
-
+<hr> 
 Developed by Pankaj Kumar
-GitHub: Pankajkr2699
+GitHub: @Pankajkr2699
